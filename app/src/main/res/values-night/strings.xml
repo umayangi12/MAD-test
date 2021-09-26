@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DoctorRegister</string>
+    <string name="tv_register">Doctor Registration</string>
+    <string name="et_name">Name</string>
+    <string name="et_license">License Number</string>
+    <string name="et_email">Email</string>
+    <string name="et_gender">Gender</string>
+    <string name="et_pnumber">Phone Number</string>
+    <string name="et_speciality">Speciality</string>
+    <string name="et_language">Language</string>
+    <string name="button">Submit</string>
+    <string name="button2">Show</string>
+    <string name="tv_login">LOGIN</string>
+    <string name="tv_register2">Register</string>
+    <string name="tv_login1">Login</string>
+</resources>
